@@ -37,3 +37,13 @@ How often does she go to school?
 Во всех вопросах двигается только функциональная часть, остальное так и остается «болтаться» между подлежащим и сказуемым. Например: 
 1) He has got a car. - Has he got a car? 
 2) They will be reading this book. – Will they be reading this book?
+
+to be:
+present:
+am (I), is (he, she, it), are (they, we, you) past:
+was (he, she, it, I (ед.ч.)), were (we, you, they (мн. 4 future:
+will + be
+герундий:
+being (континиусная выглядит также)
+инфинитив:
+to be
